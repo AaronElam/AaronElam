@@ -1,5 +1,5 @@
 ### Hallo, wie geht's? 👋
-- 👀 Looking for <b>Software Developer opportunities</b>!
+- 👀 Looking for <b>Software Engineering opportunities</b>!
 - 📖 Learning React⚛️, Spring Boot🍃, & PostgreSQL🐘
 - 💖 Love lifting weights🏋️, barbequing🥩, and hiking🥾
 <!--
