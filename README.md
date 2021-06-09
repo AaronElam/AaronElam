@@ -1,4 +1,4 @@
-### Hallo 👋
+### Hallo, wie geht's? 👋
 - 👀 Looking for <b>Software Developer opportunities</b>!
 - 📖 Learning React⚛️, Spring Boot🍃, & PostgreSQL🐘
 
