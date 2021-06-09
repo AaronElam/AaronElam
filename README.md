@@ -1,7 +1,7 @@
 ### Hallo, wie geht's? 👋
 - 👀 Looking for <b>Software Developer opportunities</b>!
 - 📖 Learning React⚛️, Spring Boot🍃, & PostgreSQL🐘
-- 💖 Love lifting weights🏋️, cooking BBQ🥩, and hiking🥾
+- 💖 Love lifting weights🏋️, barbequing🥩, and hiking🥾
 <!--
 **AaronElam/AaronElam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
